@@ -15,7 +15,7 @@ The components of the server include the following:
   
 •	Worker Node(s)
 
-  Running the tasks parallely and storing the input data partitions.
+  Running the tasks parallelly and storing the input data partitions.
     
 The pictorial representation of the setup:
 
